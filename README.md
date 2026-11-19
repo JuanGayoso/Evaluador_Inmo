@@ -237,3 +237,18 @@ no se suben al repositorio. Para compartir uno, copia el `.pin`.
 PyInstaller un ejecutable por sistema operativo (`.exe` para Windows y
 binario/`.app` para macOS), compilado con GitHub Actions. Requerirá mover la
 carpeta de proyectos a una ruta del usuario (p. ej. `Documentos/Evaluador`).
+
+## Licencia
+
+[PolyForm Noncommercial 1.0.0](LICENSE). Puedes usar, copiar, modificar y
+mejorar el código **sin fines comerciales** (uso personal, educativo, de
+investigación, organizaciones sin fines de lucro). Está **prohibido
+venderlo, comercializarlo o crear con él una versión comercial**.
+
+Si lo distribuyes o publicas una versión modificada, debes incluir el
+archivo `LICENSE` y conservar la línea `Required Notice:` con el crédito al
+autor original. Para uso comercial, contacta al autor.
+
+Aviso: esta licencia es "source-available", no "open source" según la OSI,
+porque restringe el uso comercial.
+
