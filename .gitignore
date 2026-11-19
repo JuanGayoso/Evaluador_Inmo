@@ -1,0 +1,19 @@
+# Entornos y caché de Python
+venv/
+venv_roto/
+.venv/
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Proyectos del usuario (datos privados; no se suben)
+proyectos/*
+!proyectos/.gitkeep
+
+# Artefactos de empaquetado
+build/
+dist/
+*.spec.bak
